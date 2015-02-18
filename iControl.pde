@@ -15,7 +15,9 @@ import java.awt.event.InputEvent;
 
 
 /*
-Proof of concept to show a potential point tracking system for mouse movement
+Proof of concept to show a potential point tracking system for mouse movement. This is intended in the future to be written 
+in Python and used as a plugin for GNOME Mousetrap as a potentially faster and more accurate alternative to the current solution
+which uses facial feature detection to determine the orientation of the head.
 
 - Adam Devigili
 - Western New England University
